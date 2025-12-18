@@ -132,8 +132,8 @@ def surfacearea(request):
 ```
 
 ## SERVER SIDE PROCESSING:
+<img width="1319" height="325" alt="Screenshot 2025-12-17 163144" src="https://github.com/user-attachments/assets/f05aecb7-f6fb-4f40-bcdc-7f4e6527bf0d" />
 
-![alt text](terminal.png)
 ## HOMEPAGE:
 ![alt text](image.png)
 
