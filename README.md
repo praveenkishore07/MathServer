@@ -133,7 +133,7 @@ def surfacearea(request):
 
 ## SERVER SIDE PROCESSING:
 
-![alt text](../terminal.png)
+![alt text](terminal.png)
 ## HOMEPAGE:
 ![alt text](image.png)
 
